@@ -8,7 +8,7 @@ Reads test inputs and expected outputs from an Excel workbook (`Assignment 1 - T
 Opens the target web application in a Chromium browser using Playwright
 Types each Singlish input into the UI, triggers transliteration, and captures the actual output
 Compares the actual output against the expected output
-Writes the result (`PASS` / `FAIL` / `COLLECTED` / `UI Error`) back into the same Excel file
+Writes the result (`PASS` / `FAIL` / `COLLECTED` / `UI Error`) back into the same Excel file 
 ---
 📁 Project Structure
 ```
