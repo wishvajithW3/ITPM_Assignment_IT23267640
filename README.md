@@ -4,7 +4,7 @@ Singlish → Sinhala Transliterator — Test Automation Suite
 ---
 📌 Overview
 This project automates the execution of 50 negative test cases that verify the behaviour of a Singlish-to-Sinhala transliteration web application. The script:
-Reads test inputs and expected outputs from an Excel workbook (`Assignment 1 - Test cases.xlsx`)
+Reads test inputs and expected outputs from an Excel workbook (`Assignment 1 - Test cases.xlsx`) 
 Opens the target web application in a Chromium browser using Playwright
 Types each Singlish input into the UI, triggers transliteration, and captures the actual output
 Compares the actual output against the expected output
